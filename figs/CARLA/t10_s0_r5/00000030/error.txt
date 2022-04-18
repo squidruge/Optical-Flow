@@ -1,0 +1,7 @@
+fv_relative_mean:-0.06108910898424135
+fv_absolute_mean:-2.0075255608176676
+fu_relative_mean:-0.03923105262071302
+fu_absolute_mean:-1.497683721789081
+
+theta_absolute_error:-0.7687762238736431
+theta_relative_error:0.15375524477472863
